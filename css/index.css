@@ -1,0 +1,161 @@
+body{ 
+	background-image: url(../imager/background.png); margin:0px; padding:0px;
+}
+body a{
+ 	text-decoration:none;
+}
+body a img{
+ 	border:0em;
+}
+.heade{
+		width:64em;
+		height:5em; margin:0 auto;
+	}
+.logo{
+		width: 6.2em;
+		height: 1em;
+		background-image: url(../imager/logo.png);
+		margin-left: 6.25em;
+		float: left;
+		margin-top: 4.2em;
+	}
+.motion{ 
+		width:9.6em; 
+		height:1.25em;
+		background-image:url(../imager/motion.png);
+		float:left;
+		margin-left:2.5em;
+		margin-top:2.18em;}
+.headline{
+	font-size: 3em;
+	color:#fff;
+	float: left;
+	margin: 0.2em 0.5em 0 0.4em;
+	 }
+.login{ 
+	width:8.75em;
+	height:1.25em;
+	float:left; 
+	margin-left:1.875em; 
+	margin-top:3.125em; 
+	color:#FFF}
+.login span{color: #29734b;}
+.login span a{color: orange}
+
+.content{
+	width:61.25em; 
+	height:45em;
+	margin:0 auto; }
+.item-above{
+	width:61.25em;
+	height:3.25em; 
+	background-color:#FFF}
+.blank{
+	width:9.3125em; 
+	height:1.375em;
+	background-image:url(../imager/but1.png);
+	margin-left:3.5em;
+}
+.item-work{ 
+	width:61.25em;
+	height:41.875em;
+	margin-top:0.125em; 
+}
+.work-left{
+	width:18.75em; 
+	height:41.875em; 
+	float:left;
+	background-color:#FFF
+}
+.work-right{ 
+	width:42.375em; 
+	height:41.875em; 
+	float:right;
+	background-color:#FFF}
+.taskbar-one{ width:16.25em;
+ height:10.625em; 
+	background-color:#FFF;
+	margin:0 auto; 
+	margin-top:1.25em;
+}
+.admin{
+	width: 5.625em;
+	height: 6.875em;
+	line-height: 16.56em;
+	margin-left: 1.25em;
+	text-align: center;
+	background: url("../imager/admin.png") no-repeat;
+}
+
+.info{ 
+	float:right;
+	line-height:1.875em;
+	margin-right:1.875em;
+	margin-top:0.625em;
+}
+.taskbar-one ul{ margin-top: -7.1875em;}
+.taskbar-one li{ list-style:none;}
+.taskbar-one li a{ color:#000;}
+.taskbar-two{
+	width:16.25em;
+	height:29.375em; 
+	border:0.1em solid #000; 
+	margin:0 auto; 
+	background-color:#FFF}
+.menu-one{ 
+	width:16.125em;
+	height:14.625em;
+	margin:0 auto; 
+	margin-top:1px;}
+.manage{ width:16.125em;
+	height:1.875em; 
+	background-color:#000; 
+	margin:0 auto; 
+	color: #FFF; 
+	line-height:1.875em;
+}
+.manage-list{ 
+	width:16.125em;
+	height:12.5em;
+	margin:0 auto;}
+.manage-list ul{ margin-left:-20px;}
+.taskbar-two ul li{ 
+	float:left;
+	list-style:none; 
+	margin-left:0.3125em;
+}
+
+.list-bar{
+
+	background-color: red;
+	border:0.2em solid #ccc;
+	border-radius:1.5em;
+	position: relative;
+	margin-top: -6em;
+}
+.list-bar ul{
+ margin-left:-1.25em;
+}
+.list-bar ul li {
+	float:left;
+	list-style:none; 
+	margin-left:0.3em;
+}
+.list-bar ul li a img{
+	width: 
+}
+.bottom{
+	margin:3.125em;
+	color:#FFF;
+}
+.bottom-line{
+	width: 61.25em; 
+	margin:0 auto;
+	border: 0.1em solid #FFF;
+}
+.bottom-mation{
+	margin-left: 10.625em;
+}
+.bottom-mation >em{
+	margin-left: 20.93em;
+}
